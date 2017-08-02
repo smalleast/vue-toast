@@ -16,7 +16,7 @@
     },
     methods: {
       _click1(){
-        Toast({message: '提示消息1', position: 'top', iconClass: 'wp-icon', duration: 3000});
+        Toast({message: '提示消息1', position: 'top', iconClass: 'wp-icon', duration: 300000});
       },
       _click2(){
         Toast({message: '提示消息2', position: 'middle'});
